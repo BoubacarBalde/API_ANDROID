@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">API_ANDROID</string>
+    <string name="app_nameM">MODIFCATION</string>
+    <string name="app_nameA">AJOUT</string>
+    <string-array name="options_array">
+        <item>GENI INFORMATIQUE</item>
+        <item>MIAGE</item>
+        <item>GENIE CIVILE</item>
+    </string-array>
+</resources>
